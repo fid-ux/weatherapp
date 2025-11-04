@@ -1,4 +1,4 @@
-const apiKey = "0e1f4b419d1f7defb295f9716828cedf"; // registrera dig på https://openweathermap.org/api
+const apiKey = "API KEY"; // registrera dig på https://openweathermap.org/api
 const btn = document.getElementById("search");
 
 btn.addEventListener("click", async () => {
